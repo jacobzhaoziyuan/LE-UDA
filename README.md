@@ -4,8 +4,8 @@
 
 # LE-UDA: Label-efficient unsupervised domain adaptation for medical image segmentation
 
-[![MICCAI2022](https://img.shields.io/badge/arXiv-2203.12454-blue)](https://ieeexplore.ieee.org/document/9919170)
-[![MICCAI2022](https://img.shields.io/badge/Journal-TMI2022-green)](https://ieeexplore.ieee.org/document/9919170)
+[![TMI2022](https://img.shields.io/badge/arXiv-2212.02078-blue)](https://arxiv.org/abs/2212.02078)
+[![TMI2022](https://img.shields.io/badge/Journal-TMI2022-green)](https://ieeexplore.ieee.org/document/9919170)
 
 
 
